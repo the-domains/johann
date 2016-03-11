@@ -1,0 +1,28 @@
+name: johann
+favicon: null
+layout_spectrum: 0.6690768038388342
+typography_spectrum: 0.3442606513854116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.07540467754006386
+  lightness: 0.4427179314661771
+  saturation: 0.9602930697146803
+  rhythmicContrast: 0.9949279804714024
+purpose: []
